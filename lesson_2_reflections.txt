@@ -1,0 +1,5 @@
+what happens when you initialize a repository?
+A: you create a git repo that contains the contents of your new file, now giving you the options to edit and commit changes as you go with version controll added. 
+
+Why do you need to do it?
+A: so that it is in git.
